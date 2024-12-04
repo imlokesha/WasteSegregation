@@ -11,6 +11,6 @@ def prepare(filepath):
 
 model = tf.keras.models.load_model("model_01-0.44.h5")
 
-prediction = model.predict([prepare(r"C:\Users\acer\Desktop\Garbage Automation\New\metal.jpg")])
+prediction = model.predict([prepare(r"C:\Users\lokesa01\Desktop\Waste segregation\metal.jpg")])
 print(prediction)
 
