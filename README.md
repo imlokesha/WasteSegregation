@@ -7,8 +7,6 @@ This project uses deep learning and image processing techniques to automate wast
 - Python
 - Keras and TensorFlow for deep learning
 - OpenCV for image processing
-- Arduino for hardware control
-- Servo motors, a camera, jumper wires, and breadboard for hardware components
 
 >**Future Work**:
 - Improving the accuracy of the deep learning model by increasing the size and diversity of the training dataset.
